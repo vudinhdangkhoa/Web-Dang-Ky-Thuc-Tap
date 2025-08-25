@@ -40,9 +40,12 @@
   npm start
   ```
 để khởi động frontend. Ứng dụng web sẽ được mở trong trình duyệt mặc định .
-tài khoản sinh viên :
-  student@gmail.com
-  123
-tài khoản của công ty"
-  company@gmail.com
-  123
+##  Thông tin đăng nhập
+
+###  Tài khoản sinh viên
+- **Email:** `student@gmail.com`  
+- **Mật khẩu:** `123`
+
+###  Tài khoản công ty
+- **Email:** `company@gmail.com`  
+- **Mật khẩu:** `123`
